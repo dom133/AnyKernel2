@@ -25,8 +25,6 @@ is_slot_device=0;
 
 ## AnyKernel install
 dump_boot;
-
 write_boot;
-
 ## end install
 
